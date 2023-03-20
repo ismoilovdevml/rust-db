@@ -1,5 +1,5 @@
 // main.rs
-use my_advanced_dbms::{
+use rust_db::{
     cli::{commands::Commands, parser::CliParser},
     config::settings::Settings,
 };
